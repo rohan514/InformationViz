@@ -1,5 +1,4 @@
 # InformationViz
-R scripts to visualize Video Game Sales data from Kaggle
 
 vgsales.csv - Data from Kaggle for Video Game Sales 
 
